@@ -24,8 +24,10 @@
     
     Structure prête pour un futur dashboard et modèles IA
 ###  Les endpoints
+`
 GET /barns             -> Liste des poulaillers
 GET /barns/{id}        -> Détails d’un poulailler
 POST /barns            -> Créer un poulailler
 PUT /barns/{id}        -> Modifier un poulailler
 DELETE /barns/{id}     -> Supprimer un poulailler
+`
